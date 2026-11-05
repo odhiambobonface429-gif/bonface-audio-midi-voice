@@ -1,0 +1,5 @@
+# ninja log v5
+4	88	0	/workspaces/bonface-audio-midi-voice/BonfaceAudioMIDIVoice/build/CMakeFiles/cmake.verify_globs	7771034149ae88a7
+89	9926	1793883383596192858	CMakeFiles/BonfaceAudioMIDIVoice.dir/Source/PluginEditor.cpp.o	7bc706de9a45ebc5
+90	13790	1793883387450192927	CMakeFiles/BonfaceAudioMIDIVoice.dir/workspaces/bonface-audio-midi-voice/JUCE/modules/juce_audio_processors/juce_audio_processors.cpp.o	acb2ae33a15c9b7
+9962	18742	1793883392399193016	CMakeFiles/BonfaceAudioMIDIVoice.dir/workspaces/bonface-audio-midi-voice/JUCE/modules/juce_gui_extra/juce_gui_extra.cpp.o	ff59b4e4c60b840c
